@@ -1,0 +1,14 @@
+{
+  "name": "docencia",
+  "description": "Sistema de Docencia",
+  "main": "",
+  "authors": [
+    "Guadalupe Isabel Heraclio Lagunas"
+  ],
+  "license": "ITM",
+  "homepage": "docencia.app",
+  "dependencies": {
+    "bootstrap": "~3.3.7",
+    "bootstrap-material-design":"~0.5.1"
+  }
+}

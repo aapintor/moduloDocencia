@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Soberana;
+    src: url(../fonts/SoberanaSans-Light.otf) format("opentype");
+}
+body{
+	font-family: Soberana;
+}
